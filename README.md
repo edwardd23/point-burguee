@@ -44,4 +44,5 @@ Referência: https://docs.github.com/en/pages/getting-started-with-github-pages/
 
 ## Status da entrega
 
-Projeto concluído e preparado para upload. Publicação não executada: não havia sessão autorizada disponível no GitHub nem o link completo do repositório. Nenhum arquivo de repositórios da conta foi alterado. Não há URL pública confirmada.
+Projeto publicado no GitHub Pages em https://edwardd23.github.io/point-burguee/. O workflow `Publicar Point Burguer` está configurado para republicar alterações na branch `main`.
+
